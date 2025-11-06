@@ -1,15 +1,10 @@
-import ornek1.AkilliPencere;
-import ornek1.CatidakiOptikSensor;
-import ornek1.Duvar;
-import ornek2.Bilgisayar;
-import ornek2.Modem;
-import ornek2.Monitor;
-import ornek3.*;
-import ornek4.Arena;
-import ornek4.Oyuncu;
-import ornek5.Button;
-import ornek5.File;
-import ornek5.IDE;
+package java_oop_7_association_aggregation_composition;
+
+import java_oop_7_association_aggregation_composition.ornek1.*;
+import java_oop_7_association_aggregation_composition.ornek2.*;
+import java_oop_7_association_aggregation_composition.ornek3.*;
+import java_oop_7_association_aggregation_composition.ornek4.*;
+import java_oop_7_association_aggregation_composition.ornek5.*;
 
 public class Main {
 

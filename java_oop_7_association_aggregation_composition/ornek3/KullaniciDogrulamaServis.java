@@ -1,4 +1,4 @@
-package ornek3;
+package java_oop_7_association_aggregation_composition.ornek3;
 
 public class KullaniciDogrulamaServis {
     //Yazılım geliştirmede "servis" terimi genellikle belirli bir işlevi veya hizmeti sağlayan bileşeni ifade eder.

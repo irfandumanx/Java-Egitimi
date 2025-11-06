@@ -1,4 +1,4 @@
-package ornek1;
+package java_oop_7_association_aggregation_composition.ornek1;
 
 public class AkilliPencere {
     private CatidakiOptikSensor optikSensor; //association
